@@ -1,16 +1,25 @@
-## Hi there 👋
+# Benny Wambua
+**Software Engineer | Web Systems & Data Pipelines**
 
-<!--
-**BenWam254/BenWam254** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+I run technical execution and web systems at Forge Digital Solutions, where I focus on building things that actually work — clean interfaces, reliable backends, and automated workflows that remove friction. My approach centers on writing maintainable code, structuring solid layouts, and designing pipelines that don't need constant babysitting.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Stack
+
+**Languages**
+Python, JavaScript (ES6+), HTML5, CSS3
+
+**Tools & DevOps**
+Docker, Git, Vercel
+
+**Core Focus**
+Responsive Architecture, Containerized Pipelines, Workflow Automation
+
+---
+
+## Current Focus
+
+Deep-diving into Data Engineering fundamentals — specifically containerized environments and local pipeline architecture. Building a stronger foundation in how data moves, transforms, and lands reliably at scale.
