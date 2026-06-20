@@ -22,4 +22,4 @@ Responsive Architecture, Containerized Pipelines, Workflow Automation
 
 ## Current Focus
 
-Deep-diving into Data Engineering fundamentals — specifically containerized environments and local pipeline architecture. Building a stronger foundation in how data moves, transforms, and lands reliably at scale.
+Deep-diving into Data Engineering fundamentals; specifically containerized environments and local pipeline architecture. Building a stronger foundation in how data moves, transforms, and lands reliably at scale.
