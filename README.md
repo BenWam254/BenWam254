@@ -4,7 +4,7 @@
 
 ---
 
-I engineer high-performance web applications and automated data pipelines at Forge Digital Solutions, focusing on precision execution—clean UI architectures, resilient backends, and zero-maintenance automation workflows. My development philosophy centers on maintainable code, high-contrast dark-mode design systems, and robust data transformations that perform reliably at scale.
+I engineer high-performance web applications and automated data pipelines at Forge Digital Solutions, focusing on precision execution. Clean UI architectures, resilient backends, and zero-maintenance automation workflows. My development philosophy centers on maintainable code, high-contrast dark-mode design systems, and robust data transformations that perform reliably at scale.
 
 ---
 
