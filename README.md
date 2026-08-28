@@ -1,25 +1,26 @@
 # Benny Wambua
-**Software Engineer | Web Systems & Data Pipelines**
+
+**Data Engineer & Systems Developer | Web Infrastructure & Analytics**
 
 ---
 
-I run technical execution and web systems at Forge Digital Solutions, where I focus on building things that actually work — clean interfaces, reliable backends, and automated workflows that remove friction. My approach centers on writing maintainable code, structuring solid layouts, and designing pipelines that don't need constant babysitting.
+I engineer high-performance web applications and automated data pipelines at Forge Digital Solutions, focusing on precision execution—clean UI architectures, resilient backends, and zero-maintenance automation workflows. My development philosophy centers on maintainable code, high-contrast dark-mode design systems, and robust data transformations that perform reliably at scale.
 
 ---
 
-## Stack
+## Stack & Ecosystem
 
-**Languages**
-Python, JavaScript (ES6+), HTML5, CSS3
+**Core Technologies**
+Python, JavaScript (ES6+), TypeScript, SQL, HTML5, CSS3/Tailwind
 
-**Tools & DevOps**
-Docker, Git, Vercel
+**Engine & Analytics**
+Pandas, Polars, DuckDB, PostgreSQL, Matplotlib, Seaborn
 
-**Core Focus**
-Responsive Architecture, Containerized Pipelines, Workflow Automation
+**DevOps & Workflow**
+Docker, WSL (Ubuntu), Git, Vercel, Jupyter, Obsidian
 
 ---
 
 ## Current Focus
 
-Deep-diving into Data Engineering fundamentals; specifically containerized environments and local pipeline architecture. Building a stronger foundation in how data moves, transforms, and lands reliably at scale.
+Expanding deep expertise in Data Engineering and analytical pipelines—specifically containerized Docker environments, local DuckDB/Polars processing, and structured ETL workflows. Engineering systems that seamlessly ingest, transform, and visualize complex datasets with minimal latency.
