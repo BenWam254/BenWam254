@@ -2,7 +2,7 @@
 
 Building async CDC engines, runtime schema guards, and local OLAP pipelines with Python, DuckDB, and Polars.
 
-Data infrastructure, async backend, developer tooling. Nairobi, Kenya.
+Data Infrastructure, Async Backend, Developer Tooling. Nairobi, Kenya.
 
 ![Python](https://img.shields.io/badge/Python_3.11+-24292e?style=flat-square&logo=python&logoColor=white)
 ![AsyncIO](https://img.shields.io/badge/AsyncIO-24292e?style=flat-square&logo=python&logoColor=white)
